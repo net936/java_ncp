@@ -12,9 +12,7 @@
 演示地址：[https://ncp.gitapp.cn](https://ncp.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_ncp
 
 
 ## 主要功能
